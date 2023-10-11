@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WorkDayRESTSDK</id>
+    <version>11.0.3</version>
+    <title>Payactiv WorkDayRESTSDK Nuget</title>
+    <authors>PayActiv-Inc</authors>
+    <owners>PayActiv-Inc</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Payactiv SDK to pull time and attendance data from WorkDayRESTSDK.</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="NLog" version="4.7.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="**\netcoreapp2.2\WorkDayRESTSDK.dll" target="lib\netcoreapp2.2\WorkDayRESTSDK.dll" />
+  </files>
+</package>

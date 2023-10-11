@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkDayRESTSDK", "WorkDayRESTSDK\WorkDayRESTSDK.csproj", "{8678266C-F850-455D-8186-2EB8EC61C888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{FBCE4D30-158F-4377-8924-6D1A43CF3573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8678266C-F850-455D-8186-2EB8EC61C888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8678266C-F850-455D-8186-2EB8EC61C888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8678266C-F850-455D-8186-2EB8EC61C888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8678266C-F850-455D-8186-2EB8EC61C888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCE4D30-158F-4377-8924-6D1A43CF3573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCE4D30-158F-4377-8924-6D1A43CF3573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCE4D30-158F-4377-8924-6D1A43CF3573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCE4D30-158F-4377-8924-6D1A43CF3573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD25A3A-6CEB-436D-8A01-56E0C4BA4B50}
+	EndGlobalSection
+EndGlobal

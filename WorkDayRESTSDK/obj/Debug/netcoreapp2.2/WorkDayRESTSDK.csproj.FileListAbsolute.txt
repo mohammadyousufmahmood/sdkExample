@@ -1,0 +1,9 @@
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\bin\Debug\netcoreapp2.2\WorkDayRESTSDK.deps.json
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\bin\Debug\netcoreapp2.2\WorkDayRESTSDK.dll
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\bin\Debug\netcoreapp2.2\WorkDayRESTSDK.pdb
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.csproj.AssemblyReference.cache
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.AssemblyInfoInputs.cache
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.AssemblyInfo.cs
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.csproj.CoreCompileInputs.cache
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.dll
+C:\Users\MohammadYousufMahmoo\Source\Repos\WorkDayRESTSDK\WorkDayRESTSDK\obj\Debug\netcoreapp2.2\WorkDayRESTSDK.pdb
